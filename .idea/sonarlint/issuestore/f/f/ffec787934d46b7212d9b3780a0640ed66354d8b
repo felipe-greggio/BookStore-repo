@@ -1,0 +1,9 @@
+
+†
+java:S1319"iThe type of "musicians" should be an interface such as "List" rather than the implementation "ArrayList".(Ê”õ8ü½Ö”0
+ƒ
+java:S1319"fThe type of "genres" should be an interface such as "List" rather than the implementation "ArrayList".(Ê”õ8ü½Ö”0
+‚
+java:S1319"eThe type of "seals" should be an interface such as "List" rather than the implementation "ArrayList".(Ê”õ8ü½Ö”0
+0
+java:S1220""Move this file to a named package.
